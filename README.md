@@ -24,13 +24,13 @@ A clean, distraction-free interface for viewing daily tasks and a professional s
 
 | Tasks View | Side Navigation |
 | :---: | :---: |
-| <img src="screenshots/tasks_view.png" width="400"> | <img src="screenshots/sidebar.png" width="400"> |
+| <img src="tasks_view.png" width="400"> | <img src="screenshots/sidebar.png" width="400"> |
 
 ### 2. Task Customization
 Detailed task creation screen allowing students to set titles, types, tags, custom colors, and precise notification schedules.
 
 <p align="center">
-  <img src="screenshots/add_task.png" width="600" title="Add Task Screen">
+  <img src="add_task.png" width="600" title="Add Task Screen">
 </p>
 
 ---
