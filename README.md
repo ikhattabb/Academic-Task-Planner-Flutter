@@ -1,4 +1,4 @@
-# flutter_application_1
+# student_planner
 
 A new Flutter project.
 
